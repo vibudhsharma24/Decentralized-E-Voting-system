@@ -22,7 +22,7 @@
 
 2.  Clone the repository by using the command
 
-        git clone
+        git clone https://github.com/vibudhsharma24/Decentralized-E-Voting-system
 
 3.  Download and install [Ganache](https://trufflesuite.com/ganache/).
 
